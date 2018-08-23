@@ -1,1 +1,1 @@
-alert(1);
+function testFunc(){alert(1);}
